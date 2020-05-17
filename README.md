@@ -1,2 +1,0 @@
-# OpenJDK
-OpenJDK/mobile
